@@ -1,0 +1,15 @@
+{
+  "name": "eslint-config-minimal",
+  "version": "0.1.2",
+  "description": "Minimal, useful eslint rules.",
+  "main": "index.js",
+  "keywords": [
+    "eslint",
+    "eslintconfig"
+  ],
+  "peerDependencies": {
+    "eslint": ">= 3"
+  },
+  "author": "Alex Wilmer",
+  "license": "MIT"
+}
