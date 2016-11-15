@@ -13,3 +13,13 @@ yarn add eslint-config-minimal --dev
 ```
 npm i --save-dev eslint-config-minimal
 ```
+
+### Use In Your Project
+
+Create an `.eslintrc` file with the following contents:
+
+```
+{
+  "extends": "minimal"
+}
+```

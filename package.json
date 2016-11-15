@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-minimal",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "description": "Minimal, useful eslint rules.",
   "main": "index.js",
   "keywords": [
@@ -12,7 +12,9 @@
     "url" : "git@github.com:alex-wilmer/eslint-config-minimal.git"
   },
   "peerDependencies": {
-    "eslint": ">= 3"
+    "eslint": ">= 3",
+    "babel-eslint": ">= 7",
+    "eslint-plugin-react": ">= 6"
   },
   "author": "Alex Wilmer",
   "license": "MIT"
