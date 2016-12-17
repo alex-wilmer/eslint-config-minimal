@@ -14,7 +14,7 @@ module.exports = {
     "comma-dangle": [ 2, "always-multiline" ],
     "dot-notation": 2,
     "eqeqeq": 2,
-    "indent": 2,
+    "indent": [ 2, 2 ],
     "linebreak-style": [ 2, "unix" ],
     "max-len": [ 2, 100 ],
     "no-else-return": 2,
