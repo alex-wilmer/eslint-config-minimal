@@ -8,7 +8,7 @@ module.exports = {
     "node": true
   },
   "parser": "babel-eslint",
-  "plugins": [ "react" ],
+  "plugins": [ "import", "react" ],
   "rules": {
     "arrow-spacing": 2,
     "comma-dangle": [ 2, "always-multiline" ],
@@ -32,6 +32,7 @@ module.exports = {
     "space-in-parens": [ 2, "never" ],
     "space-infix-ops": 2,
     "strict": 0,
+    "import/no-unresolved": 2,
     "react/jsx-boolean-value": 2,
     "react/jsx-closing-bracket-location": 2,
     "react/jsx-indent": [ 2, 2 ],
