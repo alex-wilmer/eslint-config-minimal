@@ -11,3 +11,5 @@ let z = [
 ]
 
 let c = <div/>
+
+let map = new Map()
