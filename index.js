@@ -13,6 +13,7 @@ module.exports = {
   "rules": {
     "arrow-spacing": 2,
     "comma-dangle": [ 2, "always-multiline" ],
+    "comma-spacing": 2,
     "comma-style": 2,
     "dot-notation": 2,
     "eqeqeq": 2,

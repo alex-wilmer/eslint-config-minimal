@@ -13,3 +13,7 @@ let z = [
 let c = <div/>
 
 let map = new Map()
+
+let add = (x,y) => x + y
+
+add(1,2)
